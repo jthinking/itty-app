@@ -1,0 +1,13 @@
+{
+  "version": "6",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1717084528850,
+      "tag": "0000_melted_leopardon",
+      "breakpoints": true
+    }
+  ]
+}
